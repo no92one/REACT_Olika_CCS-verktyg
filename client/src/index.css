@@ -3,3 +3,14 @@
 body {
   margin: 0;
 }
+
+.my-margin {
+  margin: 10px 30px;
+}
+
+.my-btn {
+  background-color: grey;
+  padding: 20px;
+  border: 2px black solid;
+  border-radius: 15px;
+}
